@@ -1,7 +1,6 @@
 <h2> Outline of biophysics</h2>
 <p><strong><a title="Biophysics" href="https://en.wikipedia.org/wiki/Biophysics">Biophysics</a></strong>&nbsp;&ndash;&nbsp;<a class="mw-redirect" title="Interdisciplinary" href="https://en.wikipedia.org/wiki/Interdisciplinary">interdisciplinary</a>&nbsp;<a title="Science" href="https://en.wikipedia.org/wiki/Science">science</a>&nbsp;that uses the methods of&nbsp;<a title="Physics" href="https://en.wikipedia.org/wiki/Physics">physics</a>&nbsp;to study&nbsp;<a title="Biology" href="https://en.wikipedia.org/wiki/Biology">biological</a>&nbsp;systems.<sup id="cite_ref-1" class="reference"></sup></p>
 <h2 id="mw-toc-heading">Contents</h2>
-<p>&nbsp;</p>
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Nature_of_biophysics"><span class="toctext">Nature of biophysics</span></a></li>
 <li class="toclevel-1 tocsection-5"><a href="#Branches_of_biophysics"><span class="toctext">Branches of biophysics</span></a></li>
@@ -12,6 +11,7 @@
 <li class="toclevel-1 tocsection-12"><a href="#Biophysics_publications"><span class="toctext">Biophysics publications</span></a></li>
 <li class="toclevel-1 tocsection-13"><a href="#Persons_influential_in_biophysics"><span class="toctext">Persons influential in biophysics</span></a></li>
 </ul>
+</br>
 <h2><span id="Nature_of_biophysics" class="mw-headline">Nature of biophysics</span></h2>
 <h3><span id="Biophysics_is" class="mw-headline">Biophysics is</span></h3>
 <ul>
